@@ -1,6 +1,6 @@
-## <img src="./wave.gif" width="30px"> **Hello There, I'm [Siddharth Belbase.](https://sidbelbase.me)**
+## <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"> **Hello There, I'm [Siddharth Belbase.](https://sidbelbase.me)**
 
-<img align="right" src="./swag.svg" width="120px" height="auto">
+<img align="right" src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/swag.svg" width="120px" height="auto">
 
 <a target="_blank" href="https://linkedin.com/in/sidbelbase/">
 <img src="https://img.shields.io/badge/-sidbelbase-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sidbelbase/" alt="Linkedin Badge">
