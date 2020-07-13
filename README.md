@@ -20,10 +20,10 @@
 
 ```javascript
 const sidbelbase = {
-  education: "Undergraduate",
-  codesIn: [Javascript, HTML, CSS, Python, Bash],
-  toolsUsing: [Vue, Flask, Django, FastAPI, Sass, AWS, Wordpress, Bootstrap, Firestore, Figma],
-  currentlylearning: ["MongoDB", "AI & ML", "Scuva Diving","Django"],
+  education: "UnderGraduate",
+  codesIn: ["Javascript", "HTML", "CSS", "Python", "Bash"],
+  toolsUsing: ["Vue", "Flask", "Django", "FastAPI", "Sass", "AWS", "Wordpress", "Bootstrap", "Firestore", "Figma"],
+  currentlylearning: ["MongoDB", "AI & ML","Django", "Scuva Diving"],
   experiences: {
 
     "Graphic Designer": "Freelancing | Behance",
@@ -40,5 +40,3 @@ availableForHire: true
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm constantly doing something around the internet</b> so if you want to say <b>hi, I'll be happy to share my view about stars!</b> </em>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sidbelbase)
-
-<br>
