@@ -13,8 +13,7 @@
 </a>
 <br>
 
-
-<h3 align="left"> I try to portray this universe with algorithms & abstractions and try to help people through my code.
+<h3 align="left">I try to portray this universe with algorithms & abstractions and try to help people through my code.
 </h3>
 
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
@@ -24,17 +23,13 @@ const sidbelbase = {
   education: "Undergraduate",
   codesIn: [Javascript, HTML, CSS, Python, Bash],
   toolsUsing: [Vue, Flask, Django, FastAPI, Sass, AWS, Wordpress, Bootstrap, Firestore, Figma],
-  learning: ["MongoDB", "AI & ML", "Scuva Diving"],
+  currentlylearning: ["MongoDB", "AI & ML", "Scuva Diving","Django"],
   experiences: {
+
     "Graphic Designer": "Freelancing | Behance",
     "Sr. Graphic Designer": "Eagle Eye Pvt. Ltd"
+
   },
-courses: [
-  "Automate The Boring Stuffs With Python Programming",
-"Sass for CSS: Advanced Frontend Development",
-"JavaScript In Practice: ES6 And Beyond",
-"New & Improved Flask Mega-Tutorial"
-],
 otherAlias: "Full Stack Developer",
 availableForHire: true
 }
