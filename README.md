@@ -23,21 +23,27 @@
 const sidbelbase = {
   education: "Undergraduate",
   codesIn: [Javascript, HTML, CSS, Python, Bash],
-  toolsUsing: [Vue, Node, Flask, Django, FastAPI, Sass, AWS, MongoDB, Wordpress, Bootstrap, Firestore, Figma, Illustrator],
+  toolsUsing: [Vue, Flask, Django, FastAPI, Sass, AWS, Wordpress, Bootstrap, Firestore, Figma],
   learning: ["MongoDB", "AI & ML", "Scuva Diving"],
   experiences: {
     "Graphic Designer": "Freelancing | Behance",
     "Sr. Graphic Designer": "Eagle Eye Pvt. Ltd"
   },
-certificates: "Automate The Boring Stuffs With Python Programming",
+courses: [
+  "Automate The Boring Stuffs With Python Programming",
+"Sass for CSS: Advanced Frontend Development",
+"JavaScript In Practice: ES6 And Beyond",
+"New & Improved Flask Mega-Tutorial"
+],
 otherAlias: "Full Stack Developer",
 availableForHire: true
 }
 ```
 
-![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=sidbelbase&bg_color=fafafa&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=sidbelbase.sidbelbase)
+![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=sidbelbase&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm constantly doing something around the internet</b> so if you want to say <b>hi, I'll be happy to share my view about stars!</b> </em>
+
+![](https://visitor-badge.glitch.me/badge?page_id=sidbelbase)
+
+<br>
