@@ -1,6 +1,9 @@
-## <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"> **Hello There, I'm [Siddharth Belbase.](https://sidbelbase.me)**
+# <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"> **Hello There, I'm [Siddharth Belbase.](https://sidbelbase.me)**
 
-<img align="right" src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/swag.svg" width="120px" height="auto">
+<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" width="128px" height="auto">
+
+<h3 align="left"><strong>
+I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
 
 <a target="_blank" href="https://linkedin.com/in/sidbelbase/">
 <img src="https://img.shields.io/badge/-sidbelbase-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sidbelbase/" alt="Linkedin Badge">
@@ -11,32 +14,35 @@
 <a target="_blank" href="https://instagram.com/sidbelbase/">
 <img src="https://img.shields.io/badge/-sidbelbase-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sidbelbase/" alt="Instagram Badge">
 </a>
-<br>
 
-<h3 align="left">I try to portray this universe with algorithms & abstractions and try to help people through my code.
-</h3>
+<br>
 
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
 ```javascript
 const sidbelbase = {
   education: "UnderGraduate",
+  otherAlias: "Full Stack Developer",
   codesIn: ["Javascript", "HTML", "CSS", "Python", "Bash"],
-  toolsUsing: ["Vue", "Flask", "Django", "FastAPI", "Sass", "AWS", "Wordpress", "Bootstrap", "Firestore", "Figma"],
   currentlylearning: ["MongoDB", "AI & ML","Django", "Scuva Diving"],
-  experiences: {
-
-    "Graphic Designer": "Freelancing | Behance",
-    "Sr. Graphic Designer": "Eagle Eye Pvt. Ltd"
-
-  },
-otherAlias: "Full Stack Developer",
+  toolsUsing: ["Vue", "Flask", "Django", "FastAPI", "Sass", "AWS", "Wordpress", "Bootstrap", "Firebase", "Figma","Illustrator"],
+  experiences: [
+    {
+      company : "Behance",
+      post : "Graphic Designer | Freelancing"
+    },
+    {
+      company : "Eagle Eye Pvt. Ltd",
+      post : "Senior Graphic Designer"
+    }
+  ],
 availableForHire: true
 }
 ```
 
 ![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=sidbelbase&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
 
-<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm constantly doing something around the internet</b> so if you want to say <b>hi, I'll be happy to share my view about stars!</b> </em>
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/sidbelbase/sidbelbase/issues/new/choose"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sidbelbase)
+
