@@ -1,6 +1,8 @@
-# <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"> **Hello There, I'm [Siddharth Belbase.](https://sidbelbase.me)**
 
-<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" width="128px" height="auto">
+<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" width="200px" height="auto">
+
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://sidbelbase.me">Siddharth Belbase.</a></strong>
+</h1>
 
 <h3 align="left"><strong>
 I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
@@ -14,6 +16,10 @@ I seek to contribute to this world with my algorithms and abstractions.</strong>
 <a target="_blank" href="https://instagram.com/sidbelbase/">
 <img src="https://img.shields.io/badge/-sidbelbase-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sidbelbase/" alt="Instagram Badge">
 </a>
+<a target="_blank" href="https://behance.net/sidbelbase/">
+<img src="https://img.shields.io/badge/-sidbelbase-141414?style=for-the-badge&logo=Behance&logoColor=white&link=https://behance.net/sidbelbase" alt="Behance Badge">
+</a>
+<br>
 
 <br>
 
@@ -25,7 +31,7 @@ const sidbelbase = {
   otherAlias: "Full Stack Developer",
   codesIn: ["Javascript", "HTML", "CSS", "Python", "Bash"],
   currentlylearning: ["MongoDB", "AI & ML","Django", "Scuva Diving"],
-  toolsUsing: ["Vue", "Flask", "Django", "FastAPI", "Sass", "AWS", "Wordpress", "Bootstrap", "Firebase", "Figma","Illustrator"],
+  toolsUsing: ["Vue", "Flask", "Django", "FastAPI", "Sass", "AWS", "Wordpress", "Bootstrap", "Firebase", "Figma"],
   experiences: [
     {
       company : "Behance",
