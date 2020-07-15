@@ -52,6 +52,5 @@ availableForHire: true
 
 
 <a target="_blank" href="https://github.com/sidbelbase/sidbelbase/">
-<img src="https://img.shields.io/badge/dynamic/json?logo=plex&url=https://api.countapi.xyz/hit/visitor-badge/sidbelbase&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A&cacheSeconds=5&logoColor=white" alt="Vistor's Badge">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/sidbelbase&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="sidbelbase's vistors">
 </a>
-
