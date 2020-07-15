@@ -50,5 +50,8 @@ availableForHire: true
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/sidbelbase/sidbelbase/issues/new/choose"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sidbelbase)
+
+<a target="_blank" href="https://github.com/sidbelbase/sidbelbase/">
+<img src="https://img.shields.io/badge/dynamic/json?logo=plex&url=https://api.countapi.xyz/hit/visitor-badge/sidbelbase&style=for-the-badge&label=visitors&query=value&color=141414&labelColor=141414&cacheSeconds=3600&logoColor=white" alt="Vistor's Badge">
+</a>
 
