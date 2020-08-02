@@ -23,7 +23,10 @@ I seek to contribute to this world with my algorithms and abstractions.</strong>
 
 <br>
 
-###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
+  <details>
+    <summary>
+    <strong>MORE ABOUT ME</strong>
+    </summary>
 
 ```javascript
 const sidbelbase = {
@@ -54,3 +57,5 @@ availableForHire: true
 <a target="_blank" href="https://github.com/sidbelbase/sidbelbase/">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/sidbelbase&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="sidbelbase's vistors">
 </a>
+
+  </details>
