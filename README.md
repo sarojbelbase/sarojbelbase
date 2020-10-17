@@ -1,7 +1,7 @@
 
 <img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://sidbelbase.me">Siddharth Belbase.</a></strong>
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://sidbelbase.me"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/sidbelbase.svg" width="230px"></a></strong>
 </h1>
 
 <h3 align="left"><strong>
