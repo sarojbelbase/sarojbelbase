@@ -30,21 +30,21 @@ const sarojbelbase = {
   availableForHire: true,
   education: "UnderGraduate",
   otherAlias: "Full Stack Developer",
-  codesIn: ["Javascript", "HTML", "CSS", "Python", "Bash"],
-  currentlylearning: ["Docker", "Kubernetes", "TailwindCss", "Django", "NuxtJs"],
-  toolsUsing: ["Vue", "Flask", "Django", "FastAPI", "Sass", "AWS", "Wordpress", "Firebase", "Figma"],
+  codesIn: ["NodeJs", "HTML", "CSS", "Python", "Bash"],
+  currentlylearning: ["Kubernetes", "AI/ML", "TailwindCss", "NextJs"],
+  toolsUsing: ["ReactJs", "FastAPI", "AWS", "Figma", "Serverless", "PostgreSQL"],
   experiences: [
     {
-      company : "Behance",
-      post : "Graphic Designer | Freelancing"
-    },
-    {
       company : "Eagle Eye Pvt. Ltd",
-      post : "Senior Graphic Designer"
+      post : "Associate Graphic Designer"
     },
     {
       company : "Bottle Technology Pvt. Ltd",
-      post : "Python Developer"
+      post : "Software Engineer"
+    },
+    {
+      company : "Maitri Services Pvt. Ltd.",
+      post : "Software Engineer"
     }
   ],
 }
